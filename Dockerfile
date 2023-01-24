@@ -6,8 +6,8 @@ LABEL "com.github.actions.icon"="activity"
 LABEL "com.github.actions.color"="green"
 
 LABEL version="1.0.0"
-LABEL repository="http://github.com/medlypharmacy/create-pr-action"
-LABEL homepage="http://github.com/medlypharmacy/create-pr-action"
+LABEL repository="http://github.com/tango340b/create-pr-action"
+LABEL homepage="http://github.com/tango340b/create-pr-action"
 LABEL maintainer="Poorva Gokhale"
 
 RUN apk update && apk add bash git curl jq
